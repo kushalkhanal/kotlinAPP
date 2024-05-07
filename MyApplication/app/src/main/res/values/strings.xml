@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="Countries">
+        <item>Nepal</item>
+        <item>india</item>
+        <item>china</item>
+        <item> chilli</item>
+        <item>brazil</item>
+        <item>combodia</item>
+        <item>senegal</item>
+        <item>usa</item>
+        <item>russia</item>
+        <item>hungry</item>
+        <item>russian</item>
+        <item>hongkong</item>
+        <item>macau</item>
+        <item>canada</item>
+
+        <item>hungry</item>
+        <item>russian</item>
+        <item>hongkong</item>
+        <item>macau</item>
+        <item>canada</item>
+    </string-array>
+</resources>

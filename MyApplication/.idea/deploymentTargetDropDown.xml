@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="LoginActivity">
+        <State />
+      </entry>
+      <entry key="NayaActivity">
+        <State />
+      </entry>
+      <entry key="RecyclerActivity">
+        <State />
+      </entry>
+      <entry key="SecondActivity">
+        <State />
+      </entry>
+      <entry key="SelectActivity">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Acer\.android\avd\Pixel_8_API_30.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-23T03:34:06.603612400Z" />
+        </State>
+      </entry>
+    </value>
+  </component>
+</project>
